@@ -4,5 +4,5 @@
 if __name__ == '__main__':
     s = "Спартак"
 
-    for i, сhar in enumerate(s):
-        print(s[i])
+    for i, item in enumerate(s):
+        print(item)
