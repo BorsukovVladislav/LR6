@@ -14,4 +14,4 @@ if __name__ == '__main__':
                 max_count = count
             count = 0
 
-    print(f"Максимально количество пробелов: {max_count}")
+    print(f"Максимальное количество пробелов: {max_count}")
